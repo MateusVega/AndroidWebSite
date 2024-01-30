@@ -1,8 +1,10 @@
-/*#33DE84,#00DB0B, #22A828, #2F7532, #284229*/
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');/*'Bebas Neue', cursive;*/
+@font-face {
+    font-family: Bebas Neue;
+    src: url(images&txts/BebasNeue-Regular.ttf);
+}
 @font-face {
     font-family: Android;
-    src: url(fontes/idroid.otf);
+    src: url(images&txts/idroid.otf);
 }
 :root{
     --cor01: #33DE84;
