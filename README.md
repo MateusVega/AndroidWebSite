@@ -1,22 +1,22 @@
-# Curiosidades de Tecnologia
+# Technology Curiosities
 
-## Descrição
-Este site reúne informações sobre curiosidades e histórias interessantes do mundo da tecnologia. Descubra fatos fascinantes sobre o mascote do Android e muito mais!
+## Description
+This website gathers information about curiosities and interesting stories from the world of technology. Discover fascinating facts about the Android mascot and much more!
 
-## Conteúdo
-- História do Mascote do Android
-  - A primeira versão do mascote, os Dandroids
-  - A criação do novo mascote, Bugdroid, por Irina Blok
-  - Vídeo explicativo sobre o Bugdroid
-- Curiosidades sobre as versões do Android
-  - Nomes de versões baseados em doces
-  - Fim da nomenclatura por doces com o Android 10
+## Content
+- **History of the Android Mascot**
+  - The first version of the mascot, the Dandroids
+  - Creation of the new mascot, Bugdroid, by Irina Blok
+  - Explanatory video about Bugdroid
+- **Curiosities about Android versions**
+  - Version names based on sweets
+  - End of sweet-based naming with Android 10
 
-## Recursos Adicionais
-- Links externos para fontes de informações
-- Imagens ilustrativas dos mascotes do Android
-- Vídeo explicativo sobre o Bugdroid
-- Lista das versões do Android com seus nomes de doces correspondentes
+## Additional Resources
+- External links to information sources
+- Illustrative images of Android mascots
+- Explanatory video about Bugdroid
+- List of Android versions with their corresponding sweet names
 
-## Autoria
-- Site criado por Mateus Vega para o CursoEmVideo
+## Authorship
+- Website created by Mateus Vega for CursoEmVideo
